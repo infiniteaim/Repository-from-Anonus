@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-30T11:19:20.897Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="iV48SOTOuQVM18TEczHy" version="24.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-30T11:20:40.272Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="tyO82CJa2HST-Z_tEwDT" version="24.4.0" type="github">
   <diagram name="第 1 页" id="X00CZErsw5lxIn04xf_R">
     <mxGraphModel dx="1213" dy="631" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -51,6 +51,12 @@
         </mxCell>
         <mxCell id="4k-sA4LPTLcVA16bypzs-109" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="460" width="500" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4k-sA4LPTLcVA16bypzs-113" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="680" y="180" width="40" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4k-sA4LPTLcVA16bypzs-115" value="n" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="720" y="205" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
