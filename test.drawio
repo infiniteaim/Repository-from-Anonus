@@ -16,7 +16,7 @@
         <mxCell id="HRpYmV6I2G1U3ZVPnV9y-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="HRpYmV6I2G1U3ZVPnV9y-2" target="HRpYmV6I2G1U3ZVPnV9y-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HRpYmV6I2G1U3ZVPnV9y-2" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;direction=south;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="HRpYmV6I2G1U3ZVPnV9y-2" value="Frozen" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;direction=south;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="250" y="63" width="50" height="200" as="geometry" />
         </mxCell>
         <mxCell id="HRpYmV6I2G1U3ZVPnV9y-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="HRpYmV6I2G1U3ZVPnV9y-6" target="HRpYmV6I2G1U3ZVPnV9y-21">
