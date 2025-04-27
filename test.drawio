@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0" version="26.0.7">
   <diagram name="第 1 页" id="X00CZErsw5lxIn04xf_R">
-    <mxGraphModel dx="1343" dy="718" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1091" dy="584" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -87,7 +87,7 @@
         </mxCell>
         <mxCell id="lA-1Opm2KQSe6ZG7DQJi-58" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=0.3;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="lA-1Opm2KQSe6ZG7DQJi-57">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="550" y="170" as="sourcePoint" />
+            <mxPoint x="550" y="190" as="sourcePoint" />
             <mxPoint x="550" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -145,11 +145,17 @@
             <mxPoint x="179" y="570" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lA-1Opm2KQSe6ZG7DQJi-72" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=0.3;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="lA-1Opm2KQSe6ZG7DQJi-64">
+        <mxCell id="lA-1Opm2KQSe6ZG7DQJi-72" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=0.3;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="lA-1Opm2KQSe6ZG7DQJi-64">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="549.33" y="490" as="sourcePoint" />
-            <mxPoint x="549.33" y="543" as="targetPoint" />
+            <mxPoint x="550" y="530" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="lA-1Opm2KQSe6ZG7DQJi-74" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;AutoEncoder32&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="100" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lA-1Opm2KQSe6ZG7DQJi-75" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;DecoderRN18&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="125" width="140" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
