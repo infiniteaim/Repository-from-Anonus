@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0" version="26.2.15">
   <diagram name="第 1 页" id="UdygwMZjY8NdEYgGrUYn">
-    <mxGraphModel dx="865" dy="506" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="412" dy="241" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -699,10 +699,10 @@
             <mxPoint x="70" y="85" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rkHvVx3Ez6-ziAKOJTC2-267" value="$$Z^-_1$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Georgia;container=0;" vertex="1" parent="rkHvVx3Ez6-ziAKOJTC2-251">
+        <mxCell id="rkHvVx3Ez6-ziAKOJTC2-267" value="$$Z^*_1$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Georgia;container=0;" vertex="1" parent="rkHvVx3Ez6-ziAKOJTC2-251">
           <mxGeometry x="3.75" width="12.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="rkHvVx3Ez6-ziAKOJTC2-268" value="$$Z^-_n$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Georgia;container=0;" vertex="1" parent="rkHvVx3Ez6-ziAKOJTC2-251">
+        <mxCell id="rkHvVx3Ez6-ziAKOJTC2-268" value="$$Z^*_n$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Georgia;container=0;" vertex="1" parent="rkHvVx3Ez6-ziAKOJTC2-251">
           <mxGeometry y="100" width="20" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rkHvVx3Ez6-ziAKOJTC2-269" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontFamily=Georgia;" edge="1" parent="rkHvVx3Ez6-ziAKOJTC2-251" source="rkHvVx3Ez6-ziAKOJTC2-268">
@@ -711,7 +711,7 @@
             <mxPoint x="10" y="80" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rkHvVx3Ez6-ziAKOJTC2-270" value="$$Z^-_i$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Georgia;container=0;" vertex="1" parent="rkHvVx3Ez6-ziAKOJTC2-251">
+        <mxCell id="rkHvVx3Ez6-ziAKOJTC2-270" value="$$Z^*_i$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Georgia;container=0;" vertex="1" parent="rkHvVx3Ez6-ziAKOJTC2-251">
           <mxGeometry y="50" width="20" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rkHvVx3Ez6-ziAKOJTC2-271" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontFamily=Georgia;" edge="1" parent="rkHvVx3Ez6-ziAKOJTC2-251">
