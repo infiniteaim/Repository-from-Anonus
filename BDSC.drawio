@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0" version="26.2.15">
   <diagram name="第 1 页" id="UdygwMZjY8NdEYgGrUYn">
-    <mxGraphModel dx="1424" dy="349" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="1692" dy="506" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1014,12 +1014,9 @@
         <mxCell id="IQSZD82aV_4p_f1HVfES-220" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;font&gt;C&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Georgia;" parent="IQSZD82aV_4p_f1HVfES-196" vertex="1">
           <mxGeometry x="5" y="121" width="80" height="15" as="geometry" />
         </mxCell>
-        <mxCell id="IQSZD82aV_4p_f1HVfES-221" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;container=0;fontFamily=Georgia;" parent="1" vertex="1">
-          <mxGeometry x="-379.75" y="665" width="20" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="IQSZD82aV_4p_f1HVfES-222" value="" style="endArrow=openThin;html=1;rounded=0;strokeWidth=1;endFill=0;exitX=0.1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontFamily=Georgia;" parent="1" source="IQSZD82aV_4p_f1HVfES-221" edge="1">
+        <mxCell id="IQSZD82aV_4p_f1HVfES-222" value="" style="endArrow=openThin;html=1;rounded=0;strokeWidth=1;endFill=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontFamily=Georgia;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-259.75" y="835" as="sourcePoint" />
+            <mxPoint x="-380" y="725" as="sourcePoint" />
             <mxPoint x="-339.75" y="725" as="targetPoint" />
           </mxGeometry>
         </mxCell>
