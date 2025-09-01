@@ -878,12 +878,12 @@
         </mxCell>
         <mxCell id="IQSZD82aV_4p_f1HVfES-195" value="" style="endArrow=openThin;html=1;rounded=0;strokeWidth=1;endFill=0;fontFamily=Georgia;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="YoAfKYD_kycg_FNXqTaX-3" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-530" y="724" as="sourcePoint" />
-            <mxPoint x="-581.75" y="762.5" as="targetPoint" />
+            <mxPoint x="-530" y="694" as="sourcePoint" />
+            <mxPoint x="-581.75" y="732.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="IQSZD82aV_4p_f1HVfES-196" value="" style="group;fontFamily=Georgia;" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="-476.75" y="660" width="100" height="140" as="geometry" />
+          <mxGeometry x="-476.75" y="630" width="100" height="140" as="geometry" />
         </mxCell>
         <mxCell id="MKTbrQnoti2lImlamXTL-82" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#FFFFCC;" parent="IQSZD82aV_4p_f1HVfES-196" vertex="1">
           <mxGeometry x="63.75" width="30" height="130" as="geometry" />
@@ -1016,8 +1016,8 @@
         </mxCell>
         <mxCell id="IQSZD82aV_4p_f1HVfES-222" value="" style="endArrow=openThin;html=1;rounded=0;strokeWidth=1;endFill=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontFamily=Georgia;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-380" y="725" as="sourcePoint" />
-            <mxPoint x="-339.75" y="725" as="targetPoint" />
+            <mxPoint x="-380" y="695" as="sourcePoint" />
+            <mxPoint x="-339.75" y="695" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="MKTbrQnoti2lImlamXTL-1" value="$$X_i$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Georgia;container=0;" parent="1" vertex="1">
