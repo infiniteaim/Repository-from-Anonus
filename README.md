@@ -1,8 +1,8 @@
-1.1 **Crowdfunding Platform with Time-Locked Refunds**
+**Crowdfunding Platform with Time-Locked Refunds**
 
-1.1.1 **Title**: **Time-Bound Crowdfunding with Chainlink Price Feeds**
+**Title**: **Time-Bound Crowdfunding with Chainlink Price Feeds**
 
-1.1.2 **Brief Description**:
+**Brief Description**:
 A decentralized crowdfunding contract where:
 - **Investors** contribute ETH (converted to USD via Chainlink oracles) during a locked time window.
 - **Project Owner** can withdraw funds *only* if the target (e.g., $1000 USD) is met before the lock expires.
