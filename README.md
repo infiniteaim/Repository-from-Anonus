@@ -1,4 +1,5 @@
 **Crowdfunding Platform with Time-Locked Refunds**
+---
 
 **Title**: **Time-Bound Crowdfunding with Chainlink Price Feeds**
 
@@ -11,10 +12,15 @@ A decentralized crowdfunding contract where:
 
 **System Features**:
 • **Time-Locked Contributions**: Funding window closes after `lockTime` (set in constructor).
+
 • **USD-Pegged Minimum/Target**: Uses Chainlink’s ETH/USD feed to enforce $100 min contribution and $1000 target.
+
 • **Owner-Only Withdrawal**: Owner can claim funds *only* if the target is met post-lock.
+
 • **Automatic Refunds**: Investors reclaim ETH if the target fails, but *only* after the lock period.
+
 • **ERC20 Extension**: Optional hook (`setFunderToAmount`) to sync with an ERC20 token contract.
+
 • **Transparency**: Public mapping tracks each investor’s contribution.
 
 **Detailed Interface**:
