@@ -18,7 +18,6 @@ A decentralized crowdfunding contract where:
 • **Transparency**: Public mapping tracks each investor’s contribution.
 
 **Detailed Interface**:
-[style=unboxed,leftmargin=0cm]
 ---
 **`constructor(uint256 _lockTime)`**
 - Initializes:
