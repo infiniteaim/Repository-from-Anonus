@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36 Edg/144.0.0.0" version="29.3.7">
   <diagram name="第 1 页" id="UdygwMZjY8NdEYgGrUYn">
-    <mxGraphModel dx="1775" dy="518" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="1549" dy="391" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1723,8 +1723,8 @@
             <mxPoint x="-350" y="1190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hKdx3hiV-jDIbzIfLWJK-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="地球轨道" vertex="1">
-          <mxGeometry height="30" width="60" x="-290" y="1100" as="geometry" />
+        <mxCell id="hKdx3hiV-jDIbzIfLWJK-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="飞船" vertex="1">
+          <mxGeometry height="30" width="60" x="-290" y="1185" as="geometry" />
         </mxCell>
         <mxCell id="hKdx3hiV-jDIbzIfLWJK-14" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="hKdx3hiV-jDIbzIfLWJK-13" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
@@ -1751,6 +1751,15 @@
         </mxCell>
         <mxCell id="hKdx3hiV-jDIbzIfLWJK-20" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="转移点" vertex="1">
           <mxGeometry height="30" width="60" x="-70" y="1200" as="geometry" />
+        </mxCell>
+        <mxCell id="hKdx3hiV-jDIbzIfLWJK-21" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" target="hKdx3hiV-jDIbzIfLWJK-3" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-270" y="1210" as="sourcePoint" />
+            <mxPoint x="-213" y="1487" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hKdx3hiV-jDIbzIfLWJK-23" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="地球轨道" vertex="1">
+          <mxGeometry height="30" width="60" x="-280" y="1110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
